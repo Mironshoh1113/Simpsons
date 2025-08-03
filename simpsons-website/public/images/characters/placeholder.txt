@@ -1,0 +1,11 @@
+Bu papkada qahramon rasmlari joylashadi.
+
+Namuna rasmlar:
+- homer.jpg
+- marge.jpg
+- bart.jpg
+- lisa.jpg
+- maggie.jpg
+- burns.jpg
+
+Rasm fayllarini bu papkaga joylashtiring va CharacterController orqali qo'shing. 
